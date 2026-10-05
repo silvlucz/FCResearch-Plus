@@ -1,14 +1,15 @@
 
 // ==UserScript==
 // @name         FCResearch Plus - GRU8
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/silvlucz/
 // @version      1.0
 // @description  Escaneia até 20 totes extraindo dados do inventário
 // @author       silvlucz
 // @match        https://qifcr.na.aftx.amazonoperations.app/*
 // @grant        GM_addStyle
 // @run-at       document-idle
-// ==/UserScript==
+// @updateURL    https://raw.githubusercontent.com/silvlucz/FCResearch-Plus/main/fc-research-plus.user.js
+// @downloadURL  https://raw.githubusercontent.com/silvlucz/FCResearch-Plus/main/fc-research-plus.user.js
 
 (function () {
     'use strict';
